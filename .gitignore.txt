@@ -1,0 +1,10 @@
+# Compiled output
+output/
+*.exe
+*.out
+a.out
+spellchecker
+
+# OS files
+.DS_Store
+Thumbs.db
